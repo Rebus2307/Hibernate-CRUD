@@ -25,8 +25,7 @@ Para ejecutar este proyecto en tu entorno local, necesitarás:
 1. **Clonar el repositorio:**
    ```bash
    git clone https://github.com/Rebus2307/Hibernate-CRUD.git
-
-```
+   ```
 
 2. **Preparar la Base de Datos:**
 Abre tu gestor de MySQL y ejecuta el siguiente script para crear la base de datos:
@@ -61,5 +60,3 @@ A continuación, se muestra una captura de la ejecución exitosa finalizando con
 ---
 
 *Desarrollado por Wilfrido Cruz Merlin - Escuela Superior de Cómputo (ESCOM).*
-
-```
